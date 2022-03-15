@@ -1,3 +1,0 @@
-//Push Test to a remote GitHub Repository using wpulling123
-//
-Line 1: This will be our first commit pointlocally
