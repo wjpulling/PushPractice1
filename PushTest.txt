@@ -1,3 +1,6 @@
 //Push Test to a remote GitHub Repository using wjpulling
 //
 Line 1: This will be our first commit point locally.git status
+Line 2: This line was added in the GitHub editor.
+Line 3: Also added in GitHub editor.
+Line 4: our second commit point. 
